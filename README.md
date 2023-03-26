@@ -8,6 +8,7 @@
 
 ### :white_circle: My Skills
  <p align="left">
+  <a href="https://github.com/0xSeifouri">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,postman,linux,docker,postgres,html,css,bootstrap" />
   </a>
 </p>
