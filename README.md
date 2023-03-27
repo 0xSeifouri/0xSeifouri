@@ -20,7 +20,9 @@
   <a href="https://www.linkedin.com/in/shahrooz-seifouri/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+  <a href="https://stackoverflow.com/users/21503893/shahrooz-seifouri">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
 
 <!--
 **0xSeifouri/0xSeifouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
