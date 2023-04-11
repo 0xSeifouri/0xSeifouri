@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=0xSeifouri&color=green)
 
-# Hi there, I'm Shahrooz Seifouri :wave:
+# Hi there, I'm Shahrooz :wave:
 
 
 
