@@ -39,9 +39,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Shahrooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSeifouri&show_icons=true&theme=cobalt)
 -->
 
 
 
 #
-![Shahrooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSeifouri&show_icons=true&theme=cobalt)
